@@ -1,2 +1,2 @@
 # Sitemine
-My site!
+Site test and lessons
